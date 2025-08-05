@@ -1,0 +1,5 @@
+tesseract-ocr
+tesseract-ocr-pol
+tesseract-ocr-nld
+poppler-utils
+libgl1-mesa-glx
